@@ -10,13 +10,16 @@ More info in progress...
 ##
 ### 💻 Technologies
 
-<img src="https://github.com/user-attachments/assets/7cc18326-891d-4780-bc96-47aa2a42d5ff" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/5a027a4a-89f3-4a20-a60c-c1fabca3029e" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/1808b5fb-31b9-4b63-8da5-5c1a4af2b2ad" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/ab8c7083-81d8-4be2-ab7c-80252f65bba8" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/ddb08711-d410-4ddf-9ce9-f5698e5a2403" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/71c3149c-80a9-4abc-b776-6ae1c468e412" width="50" height="50"/>
-<img src="https://github.com/user-attachments/assets/08723bbb-872e-494a-b28f-ed39c130ff80" width="50" height="50"/>
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/7cc18326-891d-4780-bc96-47aa2a42d5ff" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/5a027a4a-89f3-4a20-a60c-c1fabca3029e" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/1808b5fb-31b9-4b63-8da5-5c1a4af2b2ad" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/ab8c7083-81d8-4be2-ab7c-80252f65bba8" width="50" height="50"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/react.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/ddb08711-d410-4ddf-9ce9-f5698e5a2403" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/71c3149c-80a9-4abc-b776-6ae1c468e412" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/08723bbb-872e-494a-b28f-ed39c130ff80" width="50" height="50"/>
+</div>
 
 
 ##
